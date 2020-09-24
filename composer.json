@@ -1,5 +1,5 @@
 {
-	"name": "craue/formflow-bundle",
+	"name": "effiana/formflow-bundle",
 	"type": "symfony-bundle",
 	"description": "Multi-step forms for your Symfony project.",
 	"keywords": ["form", "wizard", "step", "symfony"],
@@ -16,7 +16,7 @@
 		}
 	],
 	"require": {
-		"php": "~7.0",
+		"php": "^7.4 | ^8.0",
 		"symfony/config": "~3.4|~4.4|~5.1",
 		"symfony/dependency-injection": "~3.4|~4.4|~5.1",
 		"symfony/event-dispatcher": "~3.4|~4.4|~5.1",
